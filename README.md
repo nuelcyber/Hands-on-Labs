@@ -29,3 +29,20 @@ Every screenshot should have some text explaining what the screenshot is about.
 Example below.
 
 *Ref 1: Network Diagram*
+
+## Cybersecurity Labs Portfolio — Oluwatobi O.
+
+Welcome — this repo showcases hands-on labs I completed with common industry tools. Each project is an isolated lab; nothing here targets production systems.
+
+## Projects
+- [OWASP ZAP lab](./zap-lab)
+- [Burp Suite lab](./burpsuite-lab)
+- [Wireshark capture analysis](./wireshark-lab)
+- [Cisco Packet Tracer topologies](./packettracer-lab)
+- [Metasploitable2 analysis](./metasploitable2-lab)
+
+## About
+- Focus: webapp security, network analysis, network simulation, and vulnerable lab exercises.
+- Contact: add link to your email / LinkedIn / GitHub profile.
+
+> All work was completed in isolated lab environments for learning. Do not use these materials to test or attack systems you do not own or have permission to test.
